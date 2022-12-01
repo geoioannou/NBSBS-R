@@ -1,2 +1,3 @@
 # NBSBS-R
-Code for the paper NBSBS-R: A Batch Selection algorithm for imbalanced datasets.
+
+Code for the paper "Online Batch Selection for Enhanced Generalization in Imbalanced Datasets"
