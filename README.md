@@ -1,3 +1,14 @@
-# NBSBS-R
+This is the repository for the implementation of NBSBS-R.
 
-Code for the paper "Online Batch Selection for Enhanced Generalization in Imbalanced Datasets"
+# Online Batch Selection for Enhanced Generalization in Imbalanced Datasets
+
+
+## Requirements
+
+
+
+## Training
+
+
+
+
