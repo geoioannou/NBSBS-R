@@ -7,6 +7,7 @@ This is the repository for the implementation of NBSBS-R.
 
 First, you have to prepare the folders with the datasets and their transformed versions. The structure of the folders should be like that:
 
+```
 ├───adasyn
 │   ├───adult
 │   ├───credit
@@ -79,6 +80,9 @@ First, you have to prepare the folders with the datasets and their transformed v
     ├───mnist
     │   └───1_minor_0.1
     └───Ozone
+```
+
+
 
 To start the training just set the parameters in script.py and execute:
 
