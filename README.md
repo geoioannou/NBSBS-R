@@ -7,9 +7,78 @@ This is the repository for the implementation of NBSBS-R.
 
 First, you have to prepare the folders with the datasets and their transformed versions. The structure of the folders should be like that:
 
-'''
-dfasf
-'''
+├───adasyn
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───borderlinesmote
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───clust_centroids
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───enn
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───kmeanssmote
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───normal
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───ros
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───rus
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───smote
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───smoteenn
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+├───smotetomek
+│   ├───adult
+│   ├───credit
+│   ├───mnist
+│   │   └───1_minor_0.1
+│   └───Ozone
+└───tomeklinks
+    ├───adult
+    ├───credit
+    ├───mnist
+    │   └───1_minor_0.1
+    └───Ozone
 
 To start the training just set the parameters in script.py and execute:
 
