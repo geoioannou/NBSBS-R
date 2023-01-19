@@ -7,9 +7,9 @@ This is the repository for the implementation of NBSBS-R.
 
 First, you have to prepare the folders with the datasets and their transformed versions. The structure of the folders should be like that:
 
-|---
-|----
-
+'''
+dfasf
+'''
 
 To start the training just set the parameters in script.py and execute:
 
