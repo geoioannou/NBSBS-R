@@ -16,7 +16,7 @@ data_transformations = ["normal", "clust_centroids", "enn", "ros",
 
 swapped = [0.15]
 datasets = ["Ozone", "adult", "credit", "mnist"]
-parts = 1
+parts = [1]
 re_enter = [1]
 noisy = [1]
 save_logs = 1
